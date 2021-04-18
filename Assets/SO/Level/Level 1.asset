@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 910e59ad7dcdc7346a76a3ce3f2ea573, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  cameraPosition: {x: 0, y: 18, z: -10}
+  playerOneSpawnPosition: {fileID: 1051593525407489637, guid: 3783f9c9ca2ef6a4da668f8c561211ca, type: 3}
+  playerTwoSpawnPosition: {fileID: 7501177442348431535, guid: 5f7b8bfe14bf7354583c5c880fca6205, type: 3}

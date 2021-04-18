@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0edd5d03a73ca77468294374364eb0c0, type: 3}
+  m_Name: LevelState
+  m_EditorClassIdentifier: 
+  playerOneHasReachedGoal: {fileID: 11400000, guid: 3ec41fd2ba81357418104e0c8db47894, type: 2}
+  playerTwoHasReachedGoal: {fileID: 11400000, guid: 97a5a32c71a7e61419483e3430700af4, type: 2}
+  resetBools: 1
